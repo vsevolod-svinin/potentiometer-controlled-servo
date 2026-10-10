@@ -3,7 +3,7 @@
 A simple Arduino project that controls a servo motor using a potentiometer.
 
 ## Hardware
-- Arduino Uno R3
+- Elegoo Uno R3
 - Potentiometer
 - Servo motor
 
